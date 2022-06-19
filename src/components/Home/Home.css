@@ -1,0 +1,158 @@
+.img{
+                      width: 1515px;
+                      height: 600px;
+                      margin-left: 1px;
+  }
+.home_p{
+                      font-size: 30px;
+ margin-left: 650px;
+}
+
+.home{
+                      display: flex;
+                      margin-left: 500px;
+                     
+}
+
+.h{
+                      margin-left: 60px;
+}
+
+.products{
+  display: grid;
+  grid-template-columns: repeat(4,300px); 
+  margin-left: 50px;
+      
+                     
+                     
+
+}
+
+.pro_div{
+  
+                      margin-left: 90px;
+                      width: 85%;
+}
+
+.add{
+                      border: 0ch;
+                     padding-top: 10px;
+                     padding-left: 10px;
+                     padding-right: 10px;
+                     padding-bottom: 10px;
+                      
+                      background-color: black;
+                      color: white;
+}
+
+
+.imgimg{
+                      width: 230px;
+}
+
+
+.hhh{
+  font-size: 50px;
+  margin-left: 520px;
+}
+.ppp{
+  margin-left: 430px;
+}
+
+.hom_pro{
+  display: flex;
+  width: 200px;
+  margin-left: 50px;
+}
+
+.homeprodiv{
+  margin-left: 40px;
+}
+
+.img1{
+  width: 400px;
+  margin-left: 10px;
+}
+.hhhh{
+  margin-left: 500px;
+  font-size: 30px;
+}
+.pppp{
+  margin-left: 300px;
+}
+.btn{
+ padding: 20px;
+ border: 0ch;
+ background-color: black;
+ color: aliceblue;
+ margin-left: 600px;
+ margin-bottom: 20px;
+ 
+}
+
+.img33{
+  display: flex;
+  width: 1300px;
+}
+
+.img333{
+  width: 600px;
+  margin-left: 80px;
+  
+}
+
+.divbb{
+  margin-top: 200px;
+  margin-left: 90px;
+}
+
+
+.ptt{
+  font-size: 40px;
+}
+
+.homep{
+  font-size: 40px;
+  margin-left: 530px;
+}
+
+.home-1{
+  margin-left: 400px;
+}
+
+.bigimg{
+  width: 1200px;
+  margin-left: 160px;
+}
+
+
+.homepp{
+  font-size: 40px;
+  margin-left: 570px;
+}
+
+.hom_pro2{
+  display: flex;
+  width: 400px;
+  margin-top: 60px;
+}
+.img111{
+  width: 340px;
+}
+
+
+.homeprodiv2{
+  margin-left: 20px;
+}
+
+
+.h1h1{
+  font-size: 200px;
+  margin-top: 0%;
+  margin-left: 90px;
+  margin-bottom: 0%;
+}
+.sinimg{
+  width: 300px;
+  height: 500px;
+}

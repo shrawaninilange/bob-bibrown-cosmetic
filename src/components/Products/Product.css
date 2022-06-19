@@ -1,0 +1,31 @@
+.single{
+       display: flex;   
+       width: 100%;
+       height: 600px;   
+       margin-left: 10px;    
+        
+}
+
+.sin1{
+                      border: 0ch;
+                      padding: 10px;
+                      background-color: black;
+                      color: white;
+}
+
+.sinimg{
+                      width: 500px;
+}
+
+.ppppp1{
+        margin-right: 100px;
+}
+
+#cas{
+        padding: 10px;
+         
+}
+
+.sort{
+        margin-left: 1200px
+}

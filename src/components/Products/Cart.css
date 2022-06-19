@@ -1,0 +1,21 @@
+ 
+
+.containercart{
+                      height: 600px;
+                  display: flex;
+}
+ 
+
+.imgcart1{
+                      width: 100px;
+                      height: 400px;
+}
+
+.btncart{
+  border: 0ch;
+  color: aliceblue;
+  background-color: black;
+  padding: 15px;
+}
+
+ 

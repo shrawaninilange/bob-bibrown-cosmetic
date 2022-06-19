@@ -1,0 +1,21 @@
+.products{
+                      display: grid;
+                      grid-template-columns: repeat(3,300px);
+                      gap: 100px;
+
+}
+
+.pro_div{
+                      margin-left: 200px;
+}
+
+.add{
+                      border: 0ch;
+                     padding-top: 10px;
+                     padding-left: 10px;
+                     padding-right: 10px;
+                     padding-bottom: 10px;
+                      
+                      background-color: black;
+                      color: white;
+}
