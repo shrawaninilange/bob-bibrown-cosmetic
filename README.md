@@ -28,7 +28,7 @@
 </ul><h2>Screenshots</h2>
 
 <h4>Some Examples Of different types of inputs</h4>
-<p><img style="width:50%; border:5px solid black" src="https://shravaniportfolio.netlify.app/Screenshot%20(1).png" alt=""></p>
+<!-- <p><img style="width:50%; border:5px solid black" src="https://shravaniportfolio.netlify.app/Screenshot%20(1).png" alt=""></p> -->
 <p><img style="width:50%; border:5px solid black" src="Screenshot (2).png" alt=""></p>  
 
 <p>Followig are the requirements to run this project:</p><ul>
