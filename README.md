@@ -43,7 +43,7 @@
 <p>You can Buy products from this website</h5><ul>
 <li>To run this project in your device, download the repository and open terminal in your editor and run command...</li>
 </ul><p><code style="margin-left:40px">npm start</code></p><ul>
-</ul><p><a href="https://ephemeral-yeot-a504e6.netlify.app/" target="_blank"><code style="margin-left:40px">visit to website</code></a></p><h2>Project Status</h2>
+</ul><p><a href="bib-bobrown-cosmetic.netlify.app/" target="_blank"><code style="margin-left:40px">visit to website</code></a></p><h2>Project Status</h2>
 <p>Completed and open for your contributions.</p><h2>Improvements</h2>
 <ul>
  
